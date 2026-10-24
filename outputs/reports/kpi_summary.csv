@@ -1,0 +1,2 @@
+total_employees,active_employees,employees_who_left,overall_attrition_rate_pct,avg_monthly_salary,avg_annual_salary,avg_years_of_experience,avg_employee_tenure,avg_job_satisfaction,avg_performance_rating,overtime_pct,promotion_rate_pct,avg_attendance_rate_pct,avg_absence_days
+326,235,91,27.91,3692.35,44308.16,4.99,4.05,2.71,3.14,28.83,94.17,96.12,9.69

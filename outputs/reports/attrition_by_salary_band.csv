@@ -1,0 +1,5 @@
+salary_band,total_employees,attrition_count,attrition_rate_pct,avg_salary,avg_tenure
+"< $3,500 (Entry)",194,72,37.11,2446.14,2.9
+"$3,500 - $6,999 (Mid)",110,14,12.73,4783.37,5.2
+"$7,000 - $11,999 (Senior)",20,5,25.0,8702.5,8.1
+"$12,000+ (Executive)",2,0,0.0,14466.0,8.0

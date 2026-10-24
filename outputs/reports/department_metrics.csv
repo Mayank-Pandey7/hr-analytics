@@ -1,0 +1,4 @@
+department,total_headcount,pct_of_workforce,active_headcount,departed_headcount,attrition_rate_pct,avg_monthly_salary,avg_performance_rating,avg_attendance_rate_pct,avg_absence_days
+Human Resources,13,3.99,7,6,46.15,3070.31,3.08,96.28,9.3
+Sales,96,29.45,66,30,31.25,4350.53,3.15,96.18,9.5
+Research & Development,217,66.56,162,55,25.35,3438.43,3.14,96.09,9.8

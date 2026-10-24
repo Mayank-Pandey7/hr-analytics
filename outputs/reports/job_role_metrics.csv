@@ -1,0 +1,9 @@
+department,job_role,role_headcount,departed_count,attrition_rate_pct,avg_monthly_salary,avg_tenure
+Sales,Sales Representative,40,21,52.5,2400.6,2.1
+Human Resources,Human Resources,13,6,46.15,3070.31,3.7
+Research & Development,Laboratory Technician,85,31,36.47,2964.54,3.5
+Research & Development,Research Scientist,95,21,22.11,2639.24,3.6
+Sales,Sales Executive,56,9,16.07,5743.34,5.5
+Research & Development,Healthcare Representative,14,2,14.29,6405.86,6.4
+Research & Development,Manufacturing Director,20,1,5.0,5643.85,6.1
+Research & Development,Research Director,3,0,0.0,13622.33,8.7

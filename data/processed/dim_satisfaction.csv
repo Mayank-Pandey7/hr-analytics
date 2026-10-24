@@ -1,0 +1,5 @@
+JobSatisfaction,JobSatisfactionLabel,SatisfactionCategory
+1,1 - Low,Dissatisfied
+2,2 - Medium,Neutral
+3,3 - High,Satisfied
+4,4 - Very High,Highly Satisfied

@@ -1,0 +1,4 @@
+risk_tier,total_employees,attrition_count,attrition_rate_pct,avg_salary
+Critical Risk Segment,32,20,62.5,2732.88
+Moderate Risk,272,70,25.74,3497.02
+Low Risk,22,1,4.55,7502.91
